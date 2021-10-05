@@ -15,7 +15,7 @@ module.exports = {
         extensions: ['.js', '.jsx'],
     },
     devServer: {
-        static: path.resolve(__dirname, 'public'),
+        static: path.join(__dirname, 'public'),
     },
     plugins: [
         new HtmlWebpackPlugin({
