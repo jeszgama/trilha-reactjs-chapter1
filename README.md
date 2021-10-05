@@ -66,3 +66,17 @@
 ### Instalando o Webpack dev server:
 
 `yarn add webpack-dev-server -D`
+
+## Comandos:
+
+`yarn webpack`
+
+- executar no browser
+
+`yarn dev`
+
+- ambiente dev
+
+`yarn buil`
+
+- ambiente de produção
