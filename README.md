@@ -62,3 +62,7 @@
 ### Instalando dependencia de desenvolvimento
 
 `yarn add html-webpack-plugin -D`
+
+### Instalando o Webpack dev server:
+
+`yarn add webpack-dev-server -D`
