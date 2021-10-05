@@ -18,7 +18,7 @@
 
 ### React dom
 
-`yarn add react dom`
+`yarn add react-dom`
 
 - Forma de trabalhar com o react na web
 - dom = arvore de elementos da aplicação
@@ -77,6 +77,6 @@
 
 - ambiente dev
 
-`yarn buil`
+`yarn build`
 
 - ambiente de produção
