@@ -58,3 +58,7 @@
 `yarn add webpack webpack-cli webpack-dev-server -D`
 
 `yarn add babel-loader -D `
+
+### Instalando dependencia de desenvolvimento
+
+`yarn add html-webpack-plugin -D`
