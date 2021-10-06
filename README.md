@@ -96,3 +96,9 @@
 ### quando adicionar outro usuario tenho que criar outra variavel para adicionar o valor desejado, exemplo:
 
 `novoUsuarios = [...usuarios, 'william']`
+
+# React Refresh Webpack Plugin
+
+## Instalando:
+
+`yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh`
