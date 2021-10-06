@@ -35,9 +35,9 @@ module.exports = {
                     options: {
                         plugins: [
                             isDevelopment && require.resolve('react-refresh/babel')
-                        ].filter(Boolen)
+                        ].filter(Boolean)
                     }
-                },
+                }
             },
             {
                 test: /\.scss$/,
