@@ -99,6 +99,22 @@
 
 # React Refresh Webpack Plugin
 
-# Instalando:
+### Instalando:
 
 `yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh`
+
+# TypeScript:
+
+### Permite adicionar tipagens/formatos
+
+`type User = {`
+
+- tipos devem ser definidos com a primeira letra maiúscula
+
+`⠀⠀name: string`
+
+- dados de determinados atributos da tipagem
+
+`⠀⠀email?: string`
+
+- ? significa que o email não é obrigatório
