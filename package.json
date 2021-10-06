@@ -27,7 +27,7 @@
     "node-sass": "^6.0.1",
     "react-refresh": "^0.10.0",
     "sass-loader": "^12.1.0",
-    "webpack": "^5.56.1",
+    "webpack": "^5.57.1",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.3.1"
   }
