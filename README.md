@@ -69,6 +69,10 @@
 
 ## Comandos:
 
+`yarn`
+
+- instala node_modules/diretórios
+
 `yarn webpack`
 
 - executar no browser
@@ -80,3 +84,15 @@
 `yarn build`
 
 - ambiente de produção
+
+# Imutabilidade
+
+- Uma variável nunca vai ter seu valor alterado, ela sempre vai receber outro valor
+
+### Exemplo:
+
+`usuarios = ['jessica', 'vitoria', 'gabriel']`
+
+### quando adicionar outro usuario tenho que criar outra variavel para adicionar o valor desejado, exemplo:
+
+`novoUsuarios = [...usuarios, 'william']`
