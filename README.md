@@ -105,7 +105,7 @@
 
 # TypeScript:
 
-### Permite adicionar tipagens/formatos
+## Permite adicionar tipagens/formatos
 
 `type User = {`
 
@@ -118,3 +118,26 @@
 `⠀⠀email?: string`
 
 - ? significa que o email não é obrigatório
+
+## Instalando
+
+`yarn add typescript -D`
+
+- instalei como o TypeScript como uma dependência de desenvolvimento
+
+`yarn tsc --init`
+
+- tsc = typescript
+- inicializa o TypeScript
+
+`yarn add @babel/preset-typescript -D`
+
+- babel irá conseguir enter o type script
+
+`yarn add @types/react-dom -D`
+
+- react dom do typescript
+
+`yarn add @types/react -D`
+
+- react do typescript
